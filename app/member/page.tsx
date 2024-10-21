@@ -27,7 +27,7 @@ export default function Memberpage() {
               <FaGithub className="text-4xl" />
             </a>
             <a
-              href="https://midterm2-eosin.vercel.app/g"
+              href=" https://midterm2-eosin.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-500 hover:text-black"
